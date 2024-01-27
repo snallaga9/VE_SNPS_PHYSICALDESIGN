@@ -8,6 +8,8 @@ file:///home/snallaga/Documents/VLSI%20EXPERT/synth_sai_2.tcl.png![image](https:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # generate_sdc.tcl
+
+the script will write the sdc constraints into the sdc file as per the user inputs from the prompt when synth_sai.tcl is run
 file:///home/snallaga/Documents/VLSI%20EXPERT/generate_sdc.tcl.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b1829f2c-dda9-41c0-b7ca-7a3d2995c526)
 
 
