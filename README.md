@@ -7,3 +7,6 @@ file:///home/snallaga/Documents/VLSI%20EXPERT/synth_sai_1.tcl.png![image](https:
 file:///home/snallaga/Documents/VLSI%20EXPERT/synth_sai_2.tcl.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/0cf96717-a524-49c7-a6bd-9ae70f2f6f81)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
