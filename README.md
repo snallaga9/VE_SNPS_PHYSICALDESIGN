@@ -21,5 +21,5 @@ file:///home/snallaga/Documents/VLSI%20EXPERT/generate_sdc_clock_latency.png![im
 # run:
 dc_shell -f ./synth_sai.tcl
 
-
+/home/snallaga/Pictures/Ghub.png
 
