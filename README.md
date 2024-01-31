@@ -29,6 +29,5 @@ file:///home/snallaga/Pictures/all_registers.png![image](https://github.com/snal
 
 file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/3a9ac2f8-062f-45e9-83d5-5e16a16f5e86)
 
-
-file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e8314adb-4a7b-4ad2-b636-f70bab77fcdc)
+[image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e8314adb-4a7b-4ad2-b636-f70bab77fcdc)
 
