@@ -37,5 +37,26 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 
 
+# assignment 2:
+file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/39d9e862-ea67-42d5-b47d-53ecb948d13a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
