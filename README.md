@@ -47,6 +47,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/590483ab-4ec3-4663-a0f5-8f247e71d76b)
 set_input_delay -max [expr {0.4*$clock_period}] -clock clk [all_inputs] 
 
+file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/bc611a0d-1987-48b5-8480-71c37319a5b0)
+
+
 
 
 
