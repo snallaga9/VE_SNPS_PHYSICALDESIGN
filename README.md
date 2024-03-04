@@ -65,6 +65,10 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/7b27e27b-b644-4cc8-9562-40cab0d9880f)
 
+#gobals & paths definitions
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e8ef2605-e58b-4d7f-8802-1bf74b5c8b28)
+
+
 
 
 
