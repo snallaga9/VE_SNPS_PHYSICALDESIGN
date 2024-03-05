@@ -73,6 +73,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 * if ref_libs are created, we need to delete the existing ref_libs and then can create with the same name orelse you can always create a new one.
 
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/911450e0-c5b2-4fe5-8c18-54d740b6c9c7)
+
+
 
 
 
