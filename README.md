@@ -75,6 +75,10 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/911450e0-c5b2-4fe5-8c18-54d740b6c9c7)
 
+* after reading the verilog design, link the design:
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fd415fff-ef19-44d4-84a1-4aa7f6c82d0f)
+
+
 
 
 
