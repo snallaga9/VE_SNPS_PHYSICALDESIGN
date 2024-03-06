@@ -78,6 +78,12 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 * after reading the verilog design, link the design:
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fd415fff-ef19-44d4-84a1-4aa7f6c82d0f)
 
+* setenv DISPLAY issue when start_gui was run. Reason X11 -> not enabled X11 forwarding. Once, enabled it was fixed:
+
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fa1a0a8d-fe90-4d1f-931d-676e5981d142)
+
+  
+
 
 
 
