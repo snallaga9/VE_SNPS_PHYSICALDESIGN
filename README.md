@@ -127,6 +127,13 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/cafa14b4-25eb-4829-9df4-66aa0604aaeb)
 
 
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d0f8e96a-505b-41eb-ab50-6edfde30c1c5)
+  * Have you noticed, there is a problem (Hint: connection)
+  * VDD & VSS of core_mesh not connected to core_ring
+  * solution: order of executing the commands. Understand & update the answer here.
+
+
+
 
 
 
