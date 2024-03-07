@@ -106,6 +106,8 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
     * initialize_floorplan -shape L -side_length {100 500 600 200}
     * initialize_floorplan -core_utilization 0.5 -shape L -side_ratio {100 200 200 200}
    
+  
+   
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/0a6d69c9-d26e-4d7b-b604-2a3a6ef15a3f)
 
 
