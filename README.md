@@ -97,6 +97,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/bf1a704e-be8f-4773-b593-fa209a846b54)
   * You can notice the tracks
+ 
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e7adde31-8c43-4cf1-8384-b6c06f03e5d8)
+
 
 
 
