@@ -113,6 +113,11 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/86817be9-a729-4ace-a4f8-47ab72437b61)
 
 
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/bde10b37-ef8d-4a2a-91dc-04dcb98009b5)
+* read the Error & understand the mistake made before.
+
+
+
 
 
 
