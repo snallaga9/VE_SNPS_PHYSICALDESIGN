@@ -91,6 +91,11 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/18bc9ac3-42dc-484f-bf27-40c431e79aec)
 
 
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/f7afc8ec-8dc7-4dd1-be8d-492ca335778f)
+* Apply <- when enabled or disabled any settings in the view settings
+* explore view settings -> Tasks on the right pane/pallette 
+
+
 
 
 
