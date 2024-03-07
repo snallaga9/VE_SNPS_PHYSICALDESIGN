@@ -136,6 +136,13 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/242acc73-e852-4a25-b56e-53c0979ad20e)
 
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ed7dba63-1b08-4196-a497-123e1e46de3d)
+
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1bee686f-fa6e-4ba2-86e4-0153c20708b4)
+    * note: above -extension option fixed the connection issue
+
+
+
 
 
 
