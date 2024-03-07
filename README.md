@@ -102,6 +102,10 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/3b85276e-85f6-4298-bf12-99130c181931)
 
+    #initialize_floorplan examples:
+    * initialize_floorplan -shape L -side_length {100 500 600 200}
+    * initialize_floorplan -core_utilization 0.5 -shape L -side_ratio {100 200 200 200}
+
 
 
 
