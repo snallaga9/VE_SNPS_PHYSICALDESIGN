@@ -100,6 +100,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
  
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e7adde31-8c43-4cf1-8384-b6c06f03e5d8)
 
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/3b85276e-85f6-4298-bf12-99130c181931)
+
+
 
 
 
