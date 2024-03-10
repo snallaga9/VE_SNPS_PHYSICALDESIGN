@@ -160,6 +160,11 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/93e4133f-f932-474a-827a-a6c0aa6a1d10)
 
 
+    * Lab: Experiment
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/a37700bf-179b-497b-bb1f-bb5a51f05b95)
+
+
+
 
 
 
