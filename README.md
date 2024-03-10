@@ -149,6 +149,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
     # fp.tcl
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/7b1cd732-a838-4096-84d9-e2a27360190e)
 
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/5084745c-7c08-4d7d-a219-9af312c31b3f)
+
+
 
 
 
