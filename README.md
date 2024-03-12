@@ -181,6 +181,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/69a72020-475b-4f60-9b57-22f5a86ffc03)
 * default flip_first_row is true -> flips the row sites for std_cell placement
 
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/133bc3b6-e4d5-4551-8abd-9576a97b27d9)
+
+
 
 
 
