@@ -198,6 +198,15 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 
 
+* There was issue with VSS site row rail: The VSS was not being routed when compiled.
+*   Because, we have used create_net -power {VDD VSS}. VSS is ground.
+*   create_net -power {VDD}
+*   create_net -ground {VSS}
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c7b654c0-80d1-4ecd-9952-36c4c12c2b7d)
+
+  
+
+
 
 
 
