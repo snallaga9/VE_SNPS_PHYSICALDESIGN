@@ -204,6 +204,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 *   create_net -ground {VSS}
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c7b654c0-80d1-4ecd-9952-36c4c12c2b7d)
 
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/62d0bf62-6c65-4aec-9680-4b63e9534ad5)
+
+
   
 
 
