@@ -207,6 +207,30 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/62d0bf62-6c65-4aec-9680-4b63e9534ad5)
 
 
+
+# Vlsi expert pulp:
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1fdb8aaa-f84d-4355-ab72-07eb97758a69)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4de5c96a-de1f-4e49-a8a6-4a61336181c3)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/00db5c90-d86a-4eee-b78e-9e0e73dfd6c5)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/166db4be-5d3d-4edc-bb4f-bd026ee8a022)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2f591149-4a6c-4f87-b7c7-f746902bbcdd)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/063f28ed-c31d-4b1a-bcfb-2b30cf2a2d52)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c0a43e87-508e-4e43-bf56-b8fee6195ddc)
+
+
+
+
+
+
+
+
+
   
 
 
