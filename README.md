@@ -233,6 +233,16 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1c826f44-f4bc-49e9-8a7f-1f3ae62bc952)
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d8fe5e1d-a3dd-4d40-8c9e-ca416fd856ed)
 
+# TCL padring placement
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1ea6a667-410e-42cd-8b15-002542456817)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/80c19af4-813c-473e-b458-e029ad37808a)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/955eebf3-ec55-4e2f-afb8-30db5bcf6eff)
+
+* the question is why place_io needed after set_attribute on flipping the pad cell? && it works!!! Reason???? [need explanation]
+
+
+
+
 
 
 
