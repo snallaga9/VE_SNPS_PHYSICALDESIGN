@@ -239,6 +239,9 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/955eebf3-ec55-4e2f-afb8-30db5bcf6eff)
 
 * the question is why place_io needed after set_attribute on flipping the pad cell? && it works!!! Reason???? [need explanation]
+* IN the below image you can notice, the place_io at line: 61 is commented out. Now only, place_io at line 90 is used.
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/77f55e6c-2dc8-4189-95f7-6a8603c3a7cd)
+
 
 
 
