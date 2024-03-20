@@ -224,6 +224,11 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c0a43e87-508e-4e43-bf56-b8fee6195ddc)
 
 
+#fixed PADRING
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/60a717a7-316f-475d-bb9e-dd5a15da5231)
+
+
+
 
 
 
