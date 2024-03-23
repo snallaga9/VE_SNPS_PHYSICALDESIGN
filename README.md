@@ -252,6 +252,23 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 
 
 
+  # New script with power_io_constraints & flip_objects to flip the pads
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/7acbfc63-3ee0-4467-9a07-d0269af85bf2)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fd916bc6-f697-4362-bbbe-7aaa442ef7e8)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/dc1a5d58-7494-42fb-ab5c-120062b3e943)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/909fb913-a602-451d-9ea3-e152514d650c)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/cee649d4-7140-4d2a-b198-4133d3b70960)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ccffb691-b843-4446-b77a-365683388a12)
+  
+
+
+
+
+
+
+
+
+
 
 
 
