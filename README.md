@@ -259,6 +259,11 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/909fb913-a602-451d-9ea3-e152514d650c)
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/cee649d4-7140-4d2a-b198-4133d3b70960)
   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ccffb691-b843-4446-b77a-365683388a12)
+
+  
+  * power pads added along with signal pads but why only at one end. Have to place all over the IO_guides
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b74d8e22-7be6-4db8-baf9-092f9f3100cd)
+
   
 
 
