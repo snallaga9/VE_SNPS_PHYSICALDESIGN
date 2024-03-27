@@ -284,6 +284,14 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/5ba3db59-1e2e-4ad0-9e4d-b3b170dda069)
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/26c4968f-4082-40b0-97a5-04e80f87cea2)
 
+* string updated in proc
+
+* ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/6fdd771e-c13b-47b0-b00f-aad0681fe5a4)
+
+* ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1fec1a7b-69b8-4f03-bb07-10d9c6628a0b)
+
+
+
 
 
 
