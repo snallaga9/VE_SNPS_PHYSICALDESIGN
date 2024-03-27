@@ -264,6 +264,18 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
   * power pads added along with signal pads but why only at one end. Have to place all over the IO_guides
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b74d8e22-7be6-4db8-baf9-092f9f3100cd)
 
+
+    # create_io_corner_cell, create_io_filler_cell
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/8a216d1e-ede3-4505-8eb6-c0f5d4f91f5a)
+    
+    * overlap filler cells
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/eb1eaf13-1b05-49d8-955f-8b418227270a)
+   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/59430b26-1e11-465c-a41f-cf2833d5ec01)
+
+    
+
+
+
   
 
 
