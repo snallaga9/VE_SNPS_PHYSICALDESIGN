@@ -272,6 +272,29 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/eb1eaf13-1b05-49d8-955f-8b418227270a)
    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/59430b26-1e11-465c-a41f-cf2833d5ec01)
 
+# with procs & dictionary
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2addaf48-3901-4dda-abdb-c4889e012642)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c88333e3-7951-4360-8805-fde50e3f140f)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/0421240b-9d89-4602-a52a-490f9d97d7db)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/a6d9c44e-1420-4cc6-a4a6-00fa9a03fefb)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1a82f45b-c169-4764-9796-a75dbf23fc78)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/3e9d69ea-f376-48b9-9e93-ef0380476ccb)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/f6024275-5cde-4f64-8a61-fd78bb6f7b35)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/9a0463e2-b7e6-41d8-9dc4-0a55fc758185)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/5ba3db59-1e2e-4ad0-9e4d-b3b170dda069)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/26c4968f-4082-40b0-97a5-04e80f87cea2)
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
