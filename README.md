@@ -294,6 +294,35 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c07df5c9-06db-4fe8-8023-0275b567b472)
 
 
+# Placement script
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e1a2060c-a8f9-4b44-8632-3d0d330e9dee)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ca4cf4a3-270b-4de5-ba3e-a276d5bfaaa2)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/58c65e25-b652-4cc1-bc68-1deff5ee005b)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b07d1221-a922-4cb7-9b2a-6d1088618a23)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d221d6d0-0775-40aa-87be-4aa7a817bafa)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fc01f0b2-860a-4785-8e68-43f7a6b20e7d)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c6eac8d3-7897-4138-9da2-a84fb3327f65)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/f058d1c4-a8b7-4514-9719-8ee9f107f7f1)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/432df3b8-905a-4c49-b0a8-4f7fb921601f)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/23c62d62-fe8a-4b8e-996c-d4b0e4a42d4e)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/724a5a41-fca7-43c8-979b-92e070844660)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2f00b0e5-3e00-4227-a8f5-97d6f8bc4f20)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4d941b72-fbe1-4d6a-8696-befd8bcc13ee)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
