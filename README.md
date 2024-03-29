@@ -310,6 +310,18 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
 ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4d941b72-fbe1-4d6a-8696-befd8bcc13ee)
 
 
+* PG script.tcl
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d109d2bb-e8fa-4657-a6ac-fdece9d23ade)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/557fa313-b75d-4063-a1e2-1282b0dfc79a)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e13853d3-fd35-4f1d-b4e8-f8aa929c8afc)
+
+  
+
+
+
+
+
+
 
 
 
