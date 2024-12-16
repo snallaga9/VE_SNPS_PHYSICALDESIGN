@@ -160,6 +160,243 @@ file:///home/snallaga/Pictures/Ghub.png![image](https://github.com/snallaga9/VE_
     ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/93e4133f-f932-474a-827a-a6c0aa6a1d10)
 
 
+    * Lab: Experiment
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/a37700bf-179b-497b-bb1f-bb5a51f05b95)
+
+
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4fea0d50-cc7c-4d5a-898a-1190eb7b6601)
+* no sroutes/site row rails
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b8493f2d-0780-4bdd-bba2-bac94640af92)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/6e3c2c01-6a1a-4f99-865a-5dd0140bc124)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/a6c42c47-046c-4de1-9c0c-9c42bd8f1f21)
+
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/6e8eac4e-7dd8-45a4-a6f9-1ce561bf9e5c)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1d966a56-ffbe-4f42-bf2d-2518c975268b)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/69a72020-475b-4f60-9b57-22f5a86ffc03)
+* default flip_first_row is true -> flips the row sites for std_cell placement
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/133bc3b6-e4d5-4551-8abd-9576a97b27d9)
+
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2f1ec88e-d555-4f18-8771-3837d30ff1fb)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4b508dc2-2759-45ae-aa04-2d116abe7ac3)
+
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d8a7e992-c240-456d-9cff-38372f7b0a22)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/437e1649-cd6e-453f-b5df-fd3632bb84d0)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e35ad199-b5ef-4985-ade7-e72353cc55b0)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e8b5e0d3-34ad-49d0-a62a-105667bc1efb)
+
+
+
+* There was issue with VSS site row rail: The VSS was not being routed when compiled.
+*   Because, we have used create_net -power {VDD VSS}. VSS is ground.
+*   create_net -power {VDD}
+*   create_net -ground {VSS}
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c7b654c0-80d1-4ecd-9952-36c4c12c2b7d)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/62d0bf62-6c65-4aec-9680-4b63e9534ad5)
+
+
+
+# Vlsi expert pulp:
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1fdb8aaa-f84d-4355-ab72-07eb97758a69)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4de5c96a-de1f-4e49-a8a6-4a61336181c3)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/00db5c90-d86a-4eee-b78e-9e0e73dfd6c5)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/166db4be-5d3d-4edc-bb4f-bd026ee8a022)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2f591149-4a6c-4f87-b7c7-f746902bbcdd)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/063f28ed-c31d-4b1a-bcfb-2b30cf2a2d52)
+
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c0a43e87-508e-4e43-bf56-b8fee6195ddc)
+
+
+# fixed PADRING
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/60a717a7-316f-475d-bb9e-dd5a15da5231)
+
+# scripts
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/752c19ae-167a-46e9-aabd-823de384b1d6)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/8ee4de3e-241d-48da-8ef3-0732e905ca15)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1c826f44-f4bc-49e9-8a7f-1f3ae62bc952)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d8fe5e1d-a3dd-4d40-8c9e-ca416fd856ed)
+
+# TCL padring placement
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1ea6a667-410e-42cd-8b15-002542456817)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/80c19af4-813c-473e-b458-e029ad37808a)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/955eebf3-ec55-4e2f-afb8-30db5bcf6eff)
+
+* the question is why place_io needed after set_attribute on flipping the pad cell? && it works!!! Reason???? [need explanation]
+* IN the below image you can notice, the place_io at line: 61 is commented out. Now only, place_io at line 90 is used. It worked.
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/77f55e6c-2dc8-4189-95f7-6a8603c3a7cd)
+
+
+  # above script modified with procedures
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/86b4ea9c-7335-415b-93fd-f39e893d8fdc)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/8bd92551-a7f5-419c-96a7-99e231dfc6b7)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c63ec2d2-d4a9-4def-b4a3-f213341c3a0a)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4763f054-c4c2-4af1-a107-da87add5268a)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/385bbf06-ae19-4059-ae83-2e8206c4363c)
+
+
+
+  # New script with power_io_constraints & flip_objects to flip the pads
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/7acbfc63-3ee0-4467-9a07-d0269af85bf2)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fd916bc6-f697-4362-bbbe-7aaa442ef7e8)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/dc1a5d58-7494-42fb-ab5c-120062b3e943)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/909fb913-a602-451d-9ea3-e152514d650c)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/cee649d4-7140-4d2a-b198-4133d3b70960)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ccffb691-b843-4446-b77a-365683388a12)
+
+  
+  * power pads added along with signal pads but why only at one end. Have to place all over the IO_guides
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b74d8e22-7be6-4db8-baf9-092f9f3100cd)
+
+
+    # create_io_corner_cell, create_io_filler_cell
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/8a216d1e-ede3-4505-8eb6-c0f5d4f91f5a)
+    
+    * overlap filler cells
+    ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/eb1eaf13-1b05-49d8-955f-8b418227270a)
+   ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/59430b26-1e11-465c-a41f-cf2833d5ec01)
+
+# with procs & dictionary
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2addaf48-3901-4dda-abdb-c4889e012642)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c88333e3-7951-4360-8805-fde50e3f140f)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/0421240b-9d89-4602-a52a-490f9d97d7db)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/a6d9c44e-1420-4cc6-a4a6-00fa9a03fefb)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1a82f45b-c169-4764-9796-a75dbf23fc78)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/3e9d69ea-f376-48b9-9e93-ef0380476ccb)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/f6024275-5cde-4f64-8a61-fd78bb6f7b35)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/9a0463e2-b7e6-41d8-9dc4-0a55fc758185)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/5ba3db59-1e2e-4ad0-9e4d-b3b170dda069)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/26c4968f-4082-40b0-97a5-04e80f87cea2)
+
+* string updated in proc
+
+* ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/6fdd771e-c13b-47b0-b00f-aad0681fe5a4)
+
+* ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/1fec1a7b-69b8-4f03-bb07-10d9c6628a0b)
+* 
+* test code: 
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c07df5c9-06db-4fe8-8023-0275b567b472)
+
+
+# Placement script
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e1a2060c-a8f9-4b44-8632-3d0d330e9dee)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/ca4cf4a3-270b-4de5-ba3e-a276d5bfaaa2)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/58c65e25-b652-4cc1-bc68-1deff5ee005b)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/b07d1221-a922-4cb7-9b2a-6d1088618a23)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d221d6d0-0775-40aa-87be-4aa7a817bafa)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/fc01f0b2-860a-4785-8e68-43f7a6b20e7d)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/c6eac8d3-7897-4138-9da2-a84fb3327f65)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/f058d1c4-a8b7-4514-9719-8ee9f107f7f1)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/432df3b8-905a-4c49-b0a8-4f7fb921601f)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/23c62d62-fe8a-4b8e-996c-d4b0e4a42d4e)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/724a5a41-fca7-43c8-979b-92e070844660)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/2f00b0e5-3e00-4227-a8f5-97d6f8bc4f20)
+![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/4d941b72-fbe1-4d6a-8696-befd8bcc13ee)
+
+
+* PG script.tcl
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/d109d2bb-e8fa-4657-a6ac-fdece9d23ade)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/557fa313-b75d-4063-a1e2-1282b0dfc79a)
+  ![image](https://github.com/snallaga9/VE_SNPS_PHYSICALDESIGN/assets/110479456/e13853d3-fd35-4f1d-b4e8-f8aa929c8afc)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
